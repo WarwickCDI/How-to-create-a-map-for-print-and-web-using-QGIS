@@ -1,5 +1,7 @@
 # How to create a basic map for print and web using QGIS
 
+[![DOI](https://zenodo.org/badge/472255662.svg)](https://zenodo.org/badge/latestdoi/472255662)
+
 ![](images/Workshop_logo.png)
 
 By Dr Godwin Yeboah, IDG Technology for Research, Client Experience, Information & Digital Group (IDG), University of Warwick, UK.
