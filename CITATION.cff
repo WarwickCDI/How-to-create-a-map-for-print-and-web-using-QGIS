@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this workshop material, please cite it as below."
+authors:
+- family-names: "Yeboah"
+  given-names: "Godwin"
+  orcid: "https://orcid.org/0000-0003-4618-3175"
+title: "How to create a map for print and web using QGIS"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-21
+url: "https://github.com/spatialscientist/qgis-workshop-create-basic-map-for-print-and-web"
